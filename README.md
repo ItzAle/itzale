@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Alejandro</h1>
 <h3 align="center">A passionate frontend developer from Spain</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itzale&label=Profile%20views&color=0e75b6&style=flat" alt="itzale" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=itzale&label=Profile%20views&color=0e75b6&style=flat&theme=dark" alt="itzale" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itzale&theme=dark" alt="itzale" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itzale&theme=onedark" alt="itzale" /></a> </p>
 
 - 🌱 I’m currently learning **C#**
 
 - 📫 How to reach me **alexcs9230@gmail.com**
 
-- 📄 Know about my experiences [https://turquoise-rozanna-69.tiiny.site](https://turquoise-rozanna-69.tiiny.site)
+- 📄 Know about my experiences [CV](https://turquoise-rozanna-69.tiiny.site)
 
 - ⚡ Fun fact **Im a big fan of F1!**
 
