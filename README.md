@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alejandro</h1>
 <h3 align="center">A passionate frontend developer from Spain</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itzale&label=Profile%20views&color=0e75b6&style=flat&theme=dark" alt="itzale" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=itzale&label=Profile%20views&color=0e75b6&style=flat" alt="itzale" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itzale&theme=dark" alt="itzale" /></a> </p>
 
@@ -24,6 +24,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itzale&show_icons=true&locale=en&layout=compact" alt="itzale" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itzale&show_icons=true&locale=en" alt="itzale" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itzale&show_icons=true&locale=en&theme=dark" alt="itzale" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itzale&" alt="itzale" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itzale&theme=dark" alt="itzale" /></p>
