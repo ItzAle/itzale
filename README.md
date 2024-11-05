@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **alexcs9230@gmail.com**
 
-- 📄 Know about my experiences [CV](https://turquoise-rozanna-69.tiiny.site)
-
 - ⚡ Fun fact **Im a big fan of F1!**
 
 <h3 align="left">Connect with me:</h3>
